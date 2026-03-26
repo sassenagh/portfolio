@@ -58,12 +58,32 @@ Welcome to my portfolio of DevOps and full-stack development projects. Here you'
 
 ---
 
+## 4. Kubernetes DevSecOps Pipeline (SAST + SCA + DAST)
+![ZAP Report](screenshots/k8s-devsecops-pipeline/pipeline.png)
+- **Description:** End-to-end DevSecOps pipeline that integrates security testing across the SDLC. Builds, scans, and deploys a vulnerable application to Kubernetes while automatically detecting security issues.
+- **Features:**
+- Static Application Security Testing (SAST) with Semgrep
+- Software Composition Analysis (SCA) with Trivy
+- Dynamic Application Security Testing (DAST) with OWASP ZAP
+- Docker image build and vulnerability scanning
+- Kubernetes deployment using native manifests
+- Port-forwarding for local runtime security testing
+- Automated security report generation and artifact upload
+- Intentional vulnerabilities (XSS) to demonstrate detection capabilities
+- **Technologies:** Python, Docker, Kubernetes, GitHub Actions, Semgrep, Trivy, OWASP ZAP.
+- **Repository:** [k8s-devsecops-pipeline](https://github.com/sassenagh/k8s-devsecops-pipeline)
+- **Status:** Functional, fully integrated DevSecOps pipeline with security scanning.
+- **Screenshot of the security report:** `pipeline.png` in `screenshots/k8s-devsecops-pipeline/`.
+
+---
+
 ## Tech Stack
 
 - **Cloud**: GCP, AWS  
 - **Containers**: Docker, Kubernetes  
 - **Infrastructure as Code**: Terraform  
 - **CI/CD**: GitHub Actions  
+- **Security**: Semgrep, Trivy, OWASP ZAP
 - **Monitoring**: Prometheus, Grafana  
 - **Languages**: Python, Node.js  
 
