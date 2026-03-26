@@ -23,7 +23,7 @@ Welcome to my portfolio of DevOps and full-stack development projects. Here you'
 - **Technologies:** Python, Docker, Kubernetes, GCP (GKE), Cloud Run, ArgoCD.
 - **Repository:** [python-url-shortener](https://github.com/sassenagh/python-url-shortener)
 - **Status:** Functional with automated deployment on GKE.
-- - **Pipeline image:** `pipeline.png` in `screenshots/python-url-shortener/`.
+- **Pipeline image:** `pipeline.png` in `screenshots/python-url-shortener/`.
 
 --
 
