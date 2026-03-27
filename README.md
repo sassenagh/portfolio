@@ -1,5 +1,5 @@
 # Anna Alcaide Devops Portfolio
-![DevOps](https://img.shields.io/badge/DevOps-Portfolio-blue)
+![DevOps](https://img.shields.io/badge/DevOps-Portfolio-yellow)
 ![AWS](https://img.shields.io/badge/AWS-deployed-orange)
 ![GCP](https://img.shields.io/badge/GCP-deployed-blue)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-production-blue)
