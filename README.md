@@ -38,7 +38,7 @@ Welcome to my portfolio of DevOps and full-stack development projects. Here you'
     - Infrastructure managed with Terraform
 - **Technologies:** Node.js, Express, Docker, GitHub Actions.
 - **Repository:** [node-image-resizer](https://github.com/sassenagh/node-image-resizer)
-- **Status:** Functional, automated deployment, and integrated unit tests.
+- **Status:** Functional with automated deployment on EKS.
 - **Pipeline image:** `pipeline.png` in `screenshots/node-image-resizer/`.
 
 - ---
